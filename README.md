@@ -23,11 +23,13 @@ This project allows users to enter their date of birth and instantly calculates 
 ---
 
 ## Project structure
+```
 age-calculator/
 │── index.html   # Main HTML file
 │── style.css    # Stylesheet
 │── script.js    # JavaScript logic
 └── README.md    # Documentation
+```
 
 ---
 
