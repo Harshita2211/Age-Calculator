@@ -1,23 +1,23 @@
-# 🎂 Age Calculator
+#  Age Calculator
 
 A simple, elegant, and fully responsive **Age Calculator** web application built with vanilla HTML, CSS, and JavaScript. Enter your date of birth and instantly get your exact age in years, months, and days—plus additional statistics like total weeks, hours, and minutes lived!
 
 ---
 
-## ✨ Features
+##  Features
 
-- 📅 **Date Input**: Simple date picker interface for entering your birth date
-- 🧮 **Accurate Calculations**: Computes age in multiple units:
+-  **Date Input**: Simple date picker interface for entering your birth date
+-  **Accurate Calculations**: Computes age in multiple units:
   - Years, Months, and Days (primary display)
   - Total months, weeks, days, hours, and minutes passed
-- 📱 **Fully Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
-- 🎨 **Modern UI**: Clean, attractive interface with gradient background and smooth styling
-- ⚡ **Instant Results**: Real-time age calculation on form submission
-- 🔧 **No External Dependencies**: Built with pure vanilla JavaScript—no frameworks required
+-  **Fully Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
+-  **Modern UI**: Clean, attractive interface with gradient background and smooth styling
+-  **Instant Results**: Real-time age calculation on form submission
+-  **No External Dependencies**: Built with pure vanilla JavaScript—no frameworks required
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Technology | Purpose |
 |-----------|---------|
@@ -27,7 +27,7 @@ A simple, elegant, and fully responsive **Age Calculator** web application built
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Age-Calculator/
@@ -39,7 +39,7 @@ Age-Calculator/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - A modern web browser (Chrome, Firefox, Safari, Edge, etc.)
@@ -69,7 +69,7 @@ Age-Calculator/
 
 ---
 
-## 📖 How to Use
+##  How to Use
 
 1. **Enter your birthdate**: Click on the date input field and select your date of birth
 2. **Click "Calculate Age"**: Submit the form
@@ -83,7 +83,7 @@ Age-Calculator/
 
 ---
 
-## 💡 Key Functionality
+##  Key Functionality
 
 ### Age Calculation Logic (`script.js`)
 
@@ -104,7 +104,7 @@ Time Difference (ms) → Years, Months, Days
 
 ---
 
-## 🎨 Design Features
+##  Design Features
 
 - **Gradient Background**: Eye-catching teal to green gradient
 - **Responsive Layout**: Container adapts to screen size
@@ -114,19 +114,19 @@ Time Difference (ms) → Years, Months, Days
 
 ---
 
-## 🔄 Browser Compatibility
+##  Browser Compatibility
 
 | Browser | Support |
 |---------|---------|
-| Chrome | ✅ Full support |
-| Firefox | ✅ Full support |
-| Safari | ✅ Full support |
-| Edge | ✅ Full support |
-| Opera | ✅ Full support |
+| Chrome |  Full support |
+| Firefox |  Full support |
+| Safari |  Full support |
+| Edge |  Full support |
+| Opera |  Full support |
 
 ---
 
-## 📱 Responsive Design
+##  Responsive Design
 
 - **Desktop (600px+)**: Full-width container centered on page
 - **Tablet (768px)**: Optimized layout for medium screens
@@ -134,7 +134,7 @@ Time Difference (ms) → Years, Months, Days
 
 ---
 
-## 🐛 Known Limitations
+##  Known Limitations
 
 - Date input format depends on browser locale (HTML5 date picker)
 - Calculations are based on average days per month/year (accounting for leap years)
@@ -142,7 +142,7 @@ Time Difference (ms) → Years, Months, Days
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - [ ] Add timezone support
 - [ ] Export age calculation as PDF or image
@@ -154,7 +154,7 @@ Time Difference (ms) → Years, Months, Days
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, issues, and feature requests are welcome! 
 
@@ -184,7 +184,7 @@ Contributions, issues, and feature requests are welcome!
 
 ---
 
-## 📋 Code Quality
+##  Code Quality
 
 - Clean, well-commented code
 - ES6+ JavaScript best practices
@@ -194,25 +194,25 @@ Contributions, issues, and feature requests are welcome!
 
 ---
 
-## 📄 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 🙋‍♀️ About
+##  About
 
 Created with ❤️ by [Harshita2211](https://github.com/Harshita2211)
 
 ### Connect & Support
 
-- 🌟 Star this repository if you find it useful!
-- 💬 Open an issue for bugs or feature requests
-- 🍴 Fork and contribute improvements
+-  Star this repository if you find it useful!
+-  Open an issue for bugs or feature requests
+-  Fork and contribute improvements
 
 ---
 
-## 📚 Resources
+##  Resources
 
 - [MDN Web Docs - Date API](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
 - [HTML Input Date](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/date)
@@ -220,4 +220,4 @@ Created with ❤️ by [Harshita2211](https://github.com/Harshita2211)
 
 ---
 
-**Happy Age Calculating! 🎉**
+**Happy Age Calculating! **
